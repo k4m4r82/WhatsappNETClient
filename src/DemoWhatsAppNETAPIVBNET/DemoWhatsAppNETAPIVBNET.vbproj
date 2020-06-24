@@ -61,7 +61,8 @@
     <Reference Include="WebDriver">
       <HintPath>..\..\libs\WebDriver.dll</HintPath>
     </Reference>
-    <Reference Include="WhatsAppNETAPI">
+    <Reference Include="WhatsAppNETAPI, Version=1.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\libs\WhatsAppNETAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
